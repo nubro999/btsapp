@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">bts</string>
+    <string name="title_activity_bts1">Bts1Activity</string>
 </resources>
